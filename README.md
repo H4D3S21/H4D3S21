@@ -46,37 +46,31 @@
   <!-- 🔥💧 Divider -->
   <img src="assets/pokemon/fire_water_border.gif" width="80%" alt="Divider">
 
-  <!-- ======================= -->
-  <!-- 📟 POKÉDEX STATS SECTION -->
-  <h2 align="center">📟 Pokédex Stats</h2>
+<!-- ======================= -->
+<!-- 📟 POKÉDEX STATS SECTION -->
+<h2 align="center">📟 Pokédex Stats</h2>
 
-  <!-- ⬅️ Left Border -->
-  <img src="assets/pokemon/fire_water_border.gif"
-       style="width: 40px; height: auto; transform: rotate(90deg); position: absolute; left: 0; top: 0; bottom: 0;"
-       alt="Left Border">
+<div align="center">
 
-  <!-- 🎮 Pokédex Frame -->
-  <div style="position: relative; width: 800px; margin: 0 auto;">
-    
-    <!-- Static Pokédex background -->
-    <img src="assets/pokemon/pokedex.jpg" width="800" alt="Pokédex Background">
+  <!-- Pokédex Background -->
+  <img src="assets/pokemon/pokedex.jpg" width="800" alt="Pokédex Background">
 
-    <!-- Dynamic GitHub Stats (left screen) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=H4D3S21&show_icons=true&title_color=FFD700&icon_color=FFEB3B&text_color=FFFFFF&bg_color=00000000&hide_border=true"
-         style="position: absolute; top: 190px; left: 105px; width: 250px;">
+  <!-- GitHub Stats (Left Screen Simulation) -->
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=H4D3S21&show_icons=true&title_color=FFD700&icon_color=FFEB3B&text_color=FFFFFF&bg_color=00000000&hide_border=true&card_width=250"
+             alt="GitHub Stats" width="250">
+      </td>
 
-    <!-- Streak Card (below stats) -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4D3S21&theme=tokyonight&ring=FFEB3B&currStreakLabel=FFD700&fire=E25822&background=00000000&hide_border=true"
-         style="position: absolute; top: 390px; left: 105px; width: 250px;">
-  </div>
+      <td align="center" width="400">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4D3S21&theme=tokyonight&ring=FFEB3B&currStreakLabel=FFD700&fire=E25822&background=00000000&hide_border=true&card_width=250"
+             alt="Streak Stats" width="250">
+      </td>
+    </tr>
+  </table>
 
-  <!-- ➡️ Right Border -->
-  <img src="assets/pokemon/fire_water_border.gif"
-       style="width: 40px; height: auto; transform: rotate(-90deg); position: absolute; right: 0; top: 0; bottom: 0;"
-       alt="Right Border">
-
-  <!-- 🔻 Bottom Divider -->
-  <img src="assets/pokemon/fire_water_border.gif" width="80%" alt="Divider">
+</div>
 
   <!-- ======================= -->
   <!-- 📬 SOCIALS SECTION -->
