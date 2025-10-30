@@ -52,15 +52,6 @@
 
 <div align="center">
 
-  <!-- Pokédex Background -->
-  <img src="assets/pokemon/pokedex.jpg" width="800" alt="Pokédex Background">
-
-<!-- ======================= -->
-<!-- 📟 POKÉDEX STATS SECTION -->
-<h2 align="center">📟 Pokédex Stats</h2>
-
-<div align="center">
-
   <!-- 🎮 Pokédex Background -->
   <img src="assets/pokemon/pokedex_darkened.png" width="800" alt="Pokédex Background">
 
