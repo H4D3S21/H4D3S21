@@ -55,22 +55,34 @@
   <!-- Pokédex Background -->
   <img src="assets/pokemon/pokedex.jpg" width="800" alt="Pokédex Background">
 
-  <!-- GitHub Stats (Left Screen Simulation) -->
+<!-- ======================= -->
+<!-- 📟 POKÉDEX STATS SECTION -->
+<h2 align="center">📟 Pokédex Stats</h2>
+
+<div align="center">
+
+  <!-- 🔲 Pokédex Background (Darkened for Realistic Depth) -->
+  <img src="assets/pokemon/pokedex_darkened.png" width="800" alt="Pokédex Background">
+
+  <!-- 🧠 Dynamic GitHub Stats Cards (Visually Aligned Inside the Left Screen) -->
+  <div align="center">
+
   <table>
     <tr>
       <td align="center" width="400">
         <img src="https://github-readme-stats.vercel.app/api?username=H4D3S21&show_icons=true&title_color=FFD700&icon_color=FFEB3B&text_color=FFFFFF&bg_color=00000000&hide_border=true&card_width=250"
-             alt="GitHub Stats" width="250">
+             alt="GitHub Stats" width="260">
       </td>
-
       <td align="center" width="400">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4D3S21&theme=tokyonight&ring=FFEB3B&currStreakLabel=FFD700&fire=E25822&background=00000000&hide_border=true&card_width=250"
-             alt="Streak Stats" width="250">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4D3S21&theme=tokyonight&ring=FFEB3B&currStreakLabel=FFD700&fire=E25822&background=00000000&hide_border=true"
+             alt="Streak Stats" width="260">
       </td>
     </tr>
   </table>
 
+  </div>
 </div>
+
 
   <!-- ======================= -->
   <!-- 📬 SOCIALS SECTION -->
