@@ -1,131 +1,111 @@
-<!-- 🎧 DARPAN KHURANA | Ultimate Spotify Flow — with floating icons & depth -->
-
-<!-- Top animated gradient (keeps the Spotify vibe) -->
+<!-- ============================= -->
+<!-- ⚡  HEADER  ================== -->
+<!-- ============================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/animated-background/main/spotify-smooth.svg" width="100%" height="280px" alt="animated gradient background">
+  <img src="assets/pokemon/Header GIF.gif" width="1200" alt="Header Banner">
 </p>
 
-<!-- Floating SVG icons: music notes, code braces, sparkle — pure SVG with SMIL animation -->
+<h1 align="center">⚡ Hey, I'm Darpan ⚡</h1>
 <p align="center">
-  <!-- Inline SVG — lightweight floating icons -->
-  <svg width="100%" height="140" viewBox="0 0 800 140" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Floating icons">
-    <!-- Background transparent rectangle for consistent spacing -->
-    <rect x="0" y="0" width="100%" height="100%" fill="transparent" />
-    <!-- Music note 1 -->
-    <g transform="translate(120,40)" opacity="0.95">
-      <path d="M8 2v26c0 .55.45 1 1 1 .2 0 .4-.05.57-.14L34 22V6L9.57 14.14A1 1 0 0 1 9 14H8z" fill="#1DB954">
-        <animate attributeName="transform" dur="6s" repeatCount="indefinite" values="translate(0,0); translate(0,-10); translate(0,0)" />
-        <animate attributeName="opacity" dur="6s" repeatCount="indefinite" values="0.95;0.65;0.95" />
-      </path>
-    </g>
-
-    <!-- Music note 2 -->
-    <g transform="translate(280,20)" opacity="0.9">
-      <path d="M8 2v26c0 .55.45 1 1 1 .2 0 .4-.05.57-.14L34 22V6L9.57 14.14A1 1 0 0 1 9 14H8z" fill="#8be09b">
-        <animate attributeName="transform" dur="5s" repeatCount="indefinite" values="translate(0,0); translate(0,-14); translate(0,0)" begin="0.6s" />
-        <animate attributeName="opacity" dur="5s" repeatCount="indefinite" values="0.9;0.55;0.9" begin="0.6s" />
-      </path>
-    </g>
-
-    <!-- Code brackets -->
-    <g transform="translate(460,30)" opacity="0.95">
-      <text x="0" y="0" font-size="36" font-family="Segoe UI, Roboto, Arial" fill="#a7ffb8" font-weight="700">&lt;/&gt;</text>
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="7s" repeatCount="indefinite" values="0,0; 0,-12; 0,0" />
-      <animate attributeName="opacity" dur="7s" repeatCount="indefinite" values="0.95;0.6;0.95" />
-    </g>
-
-    <!-- Sparkle -->
-    <g transform="translate(640,50)" opacity="0.8">
-      <polygon points="10,0 13,7 20,8 14,12 16,20 10,15 4,20 6,12 0,8 7,7" fill="#b8f7d1">
-        <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="8s" repeatCount="indefinite" values="0,0; 0,-18; 0,0" />
-        <animate attributeName="opacity" dur="8s" repeatCount="indefinite" values="0.8;0.45;0.8" />
-      </polygon>
-    </g>
-
-    <!-- Subtle left-right drift for the whole svg -->
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="12s" repeatCount="indefinite" values="0,0; 4,0; 0,0; -4,0; 0,0" />
-  </svg>
-</p>
-
-<!-- Header capsule -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:191414&height=200&text=Darpan%20Khurana&fontAlign=50&fontAlignY=40&fontSize=40&desc=Developer%20|%20Dreamer%20|%20Music%20Lover%20🎧&descAlign=50&descAlignY=65&fontColor=ffffff)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=1DB954&center=true&vCenter=true&width=700&lines=Writing+code+that+flows+like+music...;Building+logic+that+feels+right.;Coding+at+the+speed+of+Spotify.;Hi,+I'm+Darpan+Khurana+💻;Welcome+to+my+chill+developer+zone!)](https://git.io/typing-svg)
-
----
-
-### 🎧 Now Playing (live)
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
-> “The right playlist helps the code fall into place.” 🎶
-
----
-
-### 🌿 About Me
-💚 Java | DBMS | PDSA  
-☕ Late-night coder, lo-fi listener, calm-by-design  
-🎧 Building app dev & ML projects with smooth UX in mind
-
----
-
-### ⚡ Flow Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=darpankhurana&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=1DB954&icon_color=1DB954)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darpankhurana&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=1DB954)
-
----
-
-### 💫 Active Flow Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darpankhurana&theme=chartreuse-dark&hide_border=true&fire=1DB954&ring=1DB954&currStreakLabel=1DB954)
-
----
-
-<!-- Deep pulsing background for additional depth -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/animated-background/main/spotify-pulse.svg" width="100%" height="220px" alt="pulsing background">
+  Full Stack Developer • ML Enthusiast • Cybersecurity Learner
 </p>
 
 ---
 
-### 🧩 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1DB954?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&logo=gmail&logoColor=1DB954)](mailto:youremail@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-1DB954?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+<!-- ============================= -->
+<!-- 🧩  TECH STACK  =============== -->
+<!-- ============================= -->
+<h2 align="center">🧩 My Pokémon Tech Stack 🧩</h2>
+
+<p align="center">
+  <img src="assets/pokemon/Pikachu_python_button_toned.gif" width="400" alt="Python Button"><br>
+  <img src="assets/pokemon/RayQuaza_Button_Gif_toned.gif" width="400" alt="SQL Button"><br>
+  <img src="assets/pokemon/element_trio_button_toned.gif" width="400" alt="ML Enthusiast Button"><br>
+  <img src="assets/pokemon/Mew_Button_Gif_toned.gif" width="400" alt="Cybersecurity Button"><br>
+  <img src="assets/pokemon/Charizard_Button_GIF_toned.gif" width="400" alt="Java Button"><br>
+</p>
+
+<!-- 🔥💧 Fire–Water Divider -->
+<p align="center">
+  <img src="assets/pokemon/fire_water_divider_shimmer.gif" width="1200" alt="Fire vs Water Divider">
+</p>
 
 ---
 
-### 🧠 Best extra upgrades (choose any)
-1. **Real “Now Playing”** — connect novatorem to your Spotify account (follow repo instructions) so the widget shows your current track.  
-2. **Custom hosted SVGs** — store the gradient/pulse SVGs in your repo (`/assets/`) and update links to `raw.githubusercontent.com/yourname/yourrepo/main/assets/...` for reliability.  
-3. **Pinned project carousel** — pin 4-6 best repos and add small descriptions below to make this README a portfolio *and* profile.  
-4. **Animated avatar GIF** — a subtle 2–3 second looped GIF (small file size) looks great next to the header.  
-5. **Language mini-cards** — create tiny progress bars (SVG) for each skill (Java, SQL, etc.) to show granularity.  
-6. **Accessibility** — add `alt` text to images, and keep contrast high for readability (done).  
-7. **Mobile checks** — test the README on mobile (GitHub app) — some extreme wide SVGs get cropped; hosting them inside your repo lets you control sizing.  
+<!-- ============================= -->
+<!-- 🚀  PROJECTS  ================ -->
+<!-- ============================= -->
+<h2 align="center">🚀 Featured Pokémon Projects 🚀</h2>
+
+<p align="center">
+  <a href="https://github.com/yourusername/Orbit-Commerce">
+    <img src="assets/pokemon/Charmander_GIF_resized_toned.gif" width="500" alt="Orbit Commerce Project">
+  </a><br>
+  <b>🛒 Orbit Commerce</b><br>
+  <sub>Flask • SQL • REST API</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername/ML-Image-Classifier">
+    <img src="assets/pokemon/element_trio_button_toned.gif" width="500" alt="ML Project">
+  </a><br>
+  <b>🤖 ML Image Classifier</b><br>
+  <sub>TensorFlow • NumPy • Flask</sub>
+</p>
+
+<!-- 🔥💧 Fire–Water Divider -->
+<p align="center">
+  <img src="assets/pokemon/fire_water_divider_shimmer.gif" width="1200" alt="Fire vs Water Divider">
+</p>
 
 ---
 
-### ⚠️ Notes & limitations
-- GitHub strips JavaScript for security — the animations rely on **SVG & SMIL** and image embeds only; no JS.  
-- Very complex SVGs may be sanitized on some clients. If an animation doesn't show, host the SVG in your repo and test variants (some platforms restrict certain SVG features).  
-- Keep external images/GIFs small (<200KB) for faster load on slower connections.
+<!-- ============================= -->
+<!-- 📊  STATS / ACTIVITY ========= -->
+<!-- ============================= -->
+<h2 align="center">📊 Pokédex Stats 📊</h2>
+
+<!-- Background + Accents -->
+<p align="center">
+  <img src="assets/pokemon/Kyogre Left Accent.gif" width="100" alt="Kyogre Accent">
+  <img src="assets/pokemon/Stats_Background_GIF_toned.gif" width="800" alt="Stats Background">
+  <img src="assets/pokemon/Groudon right accent.gif" width="100" alt="Groudon Accent">
+</p>
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&title_color=FFD700&icon_color=FFEB3B&text_color=FFFFFF&bg_color=0,0d0d0d,000000&hide_border=true&custom_title=Trainer%20Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&ring=FFEB3B&currStreakLabel=FFD700&fire=E25822&background=000000&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&bg_color=000000&text_color=FFD700&hide_border=true&langs_count=6&custom_title=Type%20Distribution" />
+</p>
 
 ---
 
-> “Code and music both reward repetition with mastery — keep iterating.”  
-> — *Darpan Khurana 🎧*
+<!-- ============================= -->
+<!-- 🔗  SOCIAL LINKS  ============ -->
+<!-- ============================= -->
+<h2 align="center">🌐 Let's Connect 🌐</h2>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:191414,100:1DB954&height=120&section=footer)
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="assets/pokemon/pikachu_icon_40.png" width="40" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="assets/pokemon/charmander_icon_40.png" width="40" alt="LinkedIn"></a>
+  <a href="mailto:youremail@example.com"><img src="assets/pokemon/bulbasaur_icon_40.png" width="40" alt="Email"></a>
+  <a href="https://twitter.com/yourprofile"><img src="assets/pokemon/squirtle_icon_40.png" width="40" alt="Twitter"></a>
+</p>
 
-<!--
-**H4D3S21/H4D3S21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- ============================= -->
+<!-- ⚡  FOOTER  ================== -->
+<!-- ============================= -->
+<p align="center">
+  <img src="assets/pokemon/Footer GIF.gif" width="1200" alt="Footer">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b>⭐ Thanks for visiting, Trainer! ⭐</b></p>
